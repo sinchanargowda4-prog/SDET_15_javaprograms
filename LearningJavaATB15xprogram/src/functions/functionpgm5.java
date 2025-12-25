@@ -16,7 +16,7 @@ public class functionpgm5 {
 	}
 	
 	public static void function1() {
-		System.out.println("no return type functions");
+		System.out.println("no return type functjfhkjions");
 	}
 	public static int function2() {
 		System.out.println("enetr a number");
