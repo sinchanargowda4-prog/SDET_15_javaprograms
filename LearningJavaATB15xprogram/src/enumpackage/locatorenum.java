@@ -5,5 +5,6 @@ public enum locatorenum {
 	button_selector;
 	private String Locatorenum;
 	dhgh
+	jhh
 }
 
